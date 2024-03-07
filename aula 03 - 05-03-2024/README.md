@@ -14,5 +14,11 @@ A fórmula PROCV no Excel é uma função amplamente conhecida por sua utilidade
 
 
 ## Exercícios
-Vou anexar nessa mesma pasta uma lista de exercícios para vocês treinarem
+Vou anexar nessa mesma pasta uma lista de exercícios para vocês treinarem.
+Alguns exercícios possuem detalhes que ainda não trabalhamos em sala de aula.
+Para estes casos, que são poucos e simples, vocês tem duas alternativas:
+- Ignorar os detalhes ainda não trabalhados 
+- Pesquisar por conta própria. Como disse são coisas simples.
+
+Recomendo a segunda opção :)
 

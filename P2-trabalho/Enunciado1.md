@@ -26,4 +26,4 @@ Deverá haver uma célula 'nome do cliente'. A célula 'nome do cliente' poderá
 quando a célula 'critério' estiver preenchida com 'atendimento'.
 Quando a célula 'critério' estiver preenchida com 'atendimento', deverá ser informado 
 para o usuário o valor total dos atendimentos.
-Quando a célula 'critério' estiver preenchida com 'cliente' e a célula cliente estiver preenchida com o nome de algum cliente válido, deverá ser mostrado o valor total dos atendimentos desse cliente.
+Quando a célula 'critério' estiver preenchida com 'cliente' e a célula cliente estiver preenchida com o nome de algum cliente válido, deverá ser mostrado o valor total dos atendimentos desse

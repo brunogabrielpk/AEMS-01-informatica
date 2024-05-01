@@ -16,3 +16,9 @@
 | Mancha Verde Computing | Trabalho 1 - autopeças|
 | Mancha Verde | Trabalho 2 - Hotdog|
 | Rodados.com | Trtabalho 1 - autopeças|
+
+
+3 Grupos que ganham meio ponto por melhores nome de grupo
+- Super Mario do Excel
+- Os barata raivosa
+- Rodados.com
